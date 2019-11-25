@@ -43,6 +43,9 @@ Kertasníkur | allir, songdeild | kerti | pass.123
 - elementary os, https://elementary.io
 - Mint, https://www.linuxmint.com til í ýmsum útgáfum
 
+### Rökstuðningur Linux
+
+
 Setjið svo stýrikerfið upp á VirtualBox (hjá báðum hópmeðlimum). Uppfærið stýrikerfið og setjið upp viðeigandi forrit t.d. þróunarumhverfi fyrir Python. Sejið upp viðeigandi þema (e. desktop theme) fyrir fyrirtækið, sjá t.d. [hér](https://itsfoss.com/christmas-linux-wallpaper/).
 
 ### Hópar
