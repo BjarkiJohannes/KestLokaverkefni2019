@@ -45,6 +45,10 @@ Kertasníkur | allir, songdeild | kerti | pass.123
 
 ### Rökstuðningur Linux
 
+Þetta eru helstu ástæður afhverju við völdum Ubuntu:
+
+fyrsta ástæðan afhverju við völdum Ubuntu er vegna þess að það er stýrikerfið sem við kunnum mest á af öllum vegna þess að það er fyrsta stýrikefrið sem við þurftum að kunna nota og þersvegna er best að halda sér við hluti sem maður kannast við. Önnur ástæða afhverju Ubuntu er þægilegt er venga þess að Ubuntu er mjög user-freidnly sem þýðir að þótt þú kunnir ekki neitt að forrita eða á tölvur muntu samt geta notað og skilið Ubunutu vel. Ubunutu er frítt og allar nýjar útgáfur sem munu koma út á Ubunutu mun halda áfram að vera frítt sem er alltaf gott og Ubunutu er líka mikið betur varin heldur en til dæmis windows frá vírusum og slíku. Ubunutu er með mjög mikið af stillingum til að breyta öllu eins og þér hentar og Ubunutu virkar á flestum vélum sama hversu góðir íhlutir eru í tölvuni þinni, eina sem Ubunutu krefst er að þú sért með minnstalægi 512MB RAM og 5Gb á disknum þínum sem er mikið minna en önnur stýrikerfi þurfa. Í Ubunutu eru líka fullt af núðegar uppsettum öppum og ef þú villt fleiri geturu líka fundið fullt af fríum öppum og software-i sem þú getur fengið með því að smella bara á install og þá ert þú kominn með það inná vélina þína. Forritarar elska líka Ubuntu því það er open source sem þýðir að þeir geta breytt og forritað Stýrikerfið eins og þeim hentar sem er mjög hentugt því ekki mörg stýrikerfi eru open source eins og Ubuntu, tökum til dæmis Windows sem dæmi. Windows er closed source software sem þýðir að það er ekki leyft fólki að breyta til og forrita eins og þeim hentar. Þetta eru helstu ástæður afhverju við völdum að nota Ubunutu yfir öðrum stýrikerfum
+
 
 Setjið svo stýrikerfið upp á VirtualBox (hjá báðum hópmeðlimum). Uppfærið stýrikerfið og setjið upp viðeigandi forrit t.d. þróunarumhverfi fyrir Python. Sejið upp viðeigandi þema (e. desktop theme) fyrir fyrirtækið, sjá t.d. [hér](https://itsfoss.com/christmas-linux-wallpaper/).
 
