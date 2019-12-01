@@ -67,3 +67,9 @@ Askasleikir og Hurðaskellir hefja ekki störf alveg strax, tryggið því að e
 Grýla þarf að geta notað `sudo` skipunina, aðrir notendur mega ekki nota sudo skipunina.
 
 Skrifið leiðbeiningar fyrir Grýlu þar sem þið útskýrið hvernig á að búa til notendur og setja í rétta hópa ásamt því að útskýra hvernig hún getur virkjað aðganga þeirra starfsmanna sem hefja ekki störf strax.
+
+### Leiðbeiningar Fyrir Grýlu
+
+Hæ grýla! hérna eru leiðbeiningarnar sem þú baðst um til að stofna notendur og hópana.
+
+Til að búa til user þarftu að skrifa commandið: adduser (og svo nafn á notenda). Til þess að adda useri í group þarftu að skrifa: usermod -a -G (og svo nafn á hópinum) (og svo nafn á notenda). Til þess að virkja notenda þarftu að skrifa: usermod -U -e (nafn notenda).
