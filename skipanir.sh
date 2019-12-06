@@ -149,4 +149,17 @@ usermod -a -G leikdeild gryla
 usermod -a -G songdeild gryla 
 cat /etc/group
 sudo -i
+ls -l
+  363  chmod g+v
+  364  chmod g+w
+  365  chmod g+w *deild
+  366  ls -l
+  367  chmod g+w Sameign/
+  368  ls -l
+  369  chmod o-xr *deild
+  370  ls -l
+  371  chmod o-xr Sameign
+  372  ls -l
+  373  history
+
 
